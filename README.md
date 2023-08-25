@@ -19,3 +19,33 @@ To successfully complete the exercises within the program, you should have advan
 
 ## Explore More
 Specialization link: https://www.coursera.org/account/accomplishments/specialization/PJQDNLYS9Y5E
+
+
+<!-- USAGE EXAMPLES -->
+
+## Important Projects
+
+This specialization involves working on a total of 5 projects. The following are 2 of the more interesting projects:
+
+### Algorithmic Trading: Backtesting Momentum Strategies with Hurst 
+
+[Notebook](notebooks/momentum_backtest_losing_money.ipynb) 
+
+o	Commenced with an initial portfolio value of $USD1000, observing a 1.229% growth throughout the Momentum Strategies with Hurst exponent project.
+o	Leveraged 30-day and 10-day momentum indicators to trade AAPL stock.
+o	Combined momentum trading with Hurst exponent for effective stock trading decisions
+
+
+
+
+### Algorithmic Trading: Pairs Trading Strategy with Kalman Filter
+[Notebook](Course_2_Using_Machine_Learning_in_Trading_and_Finance/6.Build_a_pair_trading_strategy_prediction_model_and_back_test_it/Pairs Trading.ipynb)
+
+
+[Notebook](Course_2_Using_Machine_Learning_in_Trading_and_Finance/7.Estimate_parameters_using_Kalman_Filters/kalman_filters_solution.ipynb)
+
+o	Employed pairs trading strategy to capitalize on consistent price divergence between assets, ensuring profitability irrespective of market conditions.
+o	Identified and verified a trading strategy based on cointegrated securities.
+o	Optimized the strategy performance through the utilization of the Kalman Filter technique.
+
+
