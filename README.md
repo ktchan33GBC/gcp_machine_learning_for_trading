@@ -30,7 +30,7 @@ This specialization involves working on a total of 5 projects. The following are
 
 ### Algorithmic Trading: Backtesting Momentum Strategies with Hurst 
 
-[Notebook](notebooks/momentum_backtest_losing_money.ipynb) 
+[Notebook](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/Course_2_Using_Machine_Learning_in_Trading_and_Finance/4.Build_a_momentum-based_trading_model_and_back_test_it/momentum_backtest_making_money.ipynb) 
 
 o	Commenced with an initial portfolio value of $USD1000, observing a 1.229% growth throughout the Momentum Strategies with Hurst exponent project.
 o	Leveraged 30-day and 10-day momentum indicators to trade AAPL stock.
@@ -41,9 +41,9 @@ o	Combined momentum trading with Hurst exponent for effective stock trading deci
 
 
 ### Algorithmic Trading: Pairs Trading Strategy with Kalman Filter
-[Notebook](Course_2_Using_Machine_Learning_in_Trading_and_Finance/6.Build_a_pair_trading_strategy_prediction_model_and_back_test_it/Pairs Trading.ipynb)
+[Notebook](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/Course_2_Using_Machine_Learning_in_Trading_and_Finance/6.Build_a_pair_trading_strategy_prediction_model_and_back_test_it/pairs_trading.ipynb)
 
-[Notebook](Course_2_Using_Machine_Learning_in_Trading_and_Finance/7.Estimate_parameters_using_Kalman_Filters/kalman_filters_solution.ipynb)
+[Notebook](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/Course_2_Using_Machine_Learning_in_Trading_and_Finance/7.Estimate_parameters_using_Kalman_Filters/pairs_trading_with_kalman_filters.ipynb)
 
 o	Employed pairs trading strategy to capitalize on consistent price divergence between assets, ensuring profitability irrespective of market conditions.
 o	Identified and verified a trading strategy based on cointegrated securities.
