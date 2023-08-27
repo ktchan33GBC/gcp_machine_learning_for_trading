@@ -13,9 +13,9 @@ To successfully complete the exercises within the program, you should have advan
 
 
 ## Specialization Curriculum
-+ ### [Course 1 - Introduction to Trading, Machine Learning & GCP]
-+ ### [Course 2 - Using Machine Learning in Trading and Finance]%20
-+ ### [Course 3 - Reinforcement Learning for Trading Strategies]
++ ### [Course 1 - Introduction to Trading, Machine Learning & GCP](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/tree/main/Course_1_Introduction_to_Trading%2C_Machine_Learning_%26_GCP)
++ ### [Course 2 - Using Machine Learning in Trading and Finance](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/tree/main/Course_2_Using_Machine_Learning_in_Trading_and_Finance)
++ ### [Course 3 - Reinforcement Learning for Trading Strategies](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/tree/main/Course_3_Reinforcement_Learning_for_Trading_Strategies)
 
 ## Explore More
 Certificate link: https://www.coursera.org/account/accomplishments/specialization/PJQDNLYS9Y5E
@@ -50,4 +50,4 @@ o	Identified and verified a trading strategy based on cointegrated securities.
 o	Optimized the strategy performance through the utilization of the Kalman Filter technique.
 
 
-![Result](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/img/result_momentum_backtest.png)
+![Result](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/img/result_pair_trade.png)
