@@ -1,7 +1,8 @@
-# GoogleCloud-ML-for-Trading
-Notes and exercises for [Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading) Offered by Google Cloud and New York Institute of Finance on Coursera.
+# GoogleCloud-Machine-Learning-for-Trading-Specialization
 
 ## About this Specialization:
+
++ Specialization provided by Google Cloud and New York Institute of Finance , Available on Coursera platform.
 
 + Target Audience: Finance professionals including hedge fund traders, analysts, and day traders, as well as individuals involved in investment or portfolio management.
 
