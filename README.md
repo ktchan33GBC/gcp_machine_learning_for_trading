@@ -18,8 +18,9 @@ To successfully complete the exercises within the program, you should have advan
 + ### [Course 3 - Reinforcement Learning for Trading Strategies]
 
 ## Explore More
-Specialization link: https://www.coursera.org/account/accomplishments/specialization/PJQDNLYS9Y5E
+Certificate link: https://www.coursera.org/account/accomplishments/specialization/PJQDNLYS9Y5E
 
+![Certificate](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/img/Specialization_Certificate_Coursera_Machine%20Learning%20for%20Trading.jpg)
 
 <!-- USAGE EXAMPLES -->
 
@@ -35,12 +36,12 @@ o	Commenced with an initial portfolio value of $USD1000, observing a 1.229% grow
 o	Leveraged 30-day and 10-day momentum indicators to trade AAPL stock.
 o	Combined momentum trading with Hurst exponent for effective stock trading decisions
 
+![Result](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/img/result_momentum_backtest.png)
 
 
 
 ### Algorithmic Trading: Pairs Trading Strategy with Kalman Filter
 [Notebook](Course_2_Using_Machine_Learning_in_Trading_and_Finance/6.Build_a_pair_trading_strategy_prediction_model_and_back_test_it/Pairs Trading.ipynb)
-
 
 [Notebook](Course_2_Using_Machine_Learning_in_Trading_and_Finance/7.Estimate_parameters_using_Kalman_Filters/kalman_filters_solution.ipynb)
 
@@ -49,3 +50,4 @@ o	Identified and verified a trading strategy based on cointegrated securities.
 o	Optimized the strategy performance through the utilization of the Kalman Filter technique.
 
 
+![Result](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/img/result_momentum_backtest.png)
